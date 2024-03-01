@@ -3,4 +3,4 @@ Practice example 1</description></item><item><title>Hi, I am Si, Lei (斯磊)</t
 Department of Computer Science,
 University of Houston,
 Houston, TX, USA
-Résumé</description></item></channel></rss>
+Résumé</description></item><item><title>Hybrid Base Complex</title><link>https://marsvegetables.github.io/projects/hexdomviz/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://marsvegetables.github.io/projects/hexdomviz/</guid><description>Hex-dominant mesh generation has received significant attention in recent research due to its superior robustness compared to pure hex-mesh generation techniques. In this work, we introduce the first structure for analyzing hex-dominant meshes. This structure builds on the base complex of pure hex-meshes but incorporates the non-hex elements for a more comprehensive and complete representation. We provide its definition and describe its construction steps. Based on this structure, we present an extraction and categorization of sheets using advanced graph matching techniques to handle the non-hex elements.</description></item></channel></rss>
